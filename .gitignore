@@ -1,5 +1,12 @@
+# Ambientes virtuais
 venv/
+env/
+.env
+
+# Cache e artefatos Python
 __pycache__/
 *.pyc
-data/
 .ipynb_checkpoints/
+
+# Dados (Dataset não deve ir para o GitHub)
+data/
